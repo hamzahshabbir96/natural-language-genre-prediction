@@ -9,7 +9,7 @@
 This Machine learning web application will predict genre of a book. User has to enter summary of any book and then click 'Predict genre' and it will display genre based on summary.  
 
 
-![Demo Video](https://user-images.githubusercontent.com/57156954/142742750-31003d74-91c3-4671-96bc-fd1080a88dfa.mp4)
+![Demo Video](images/demo.gif)
 
 
 ## Authors
