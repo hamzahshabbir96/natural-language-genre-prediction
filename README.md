@@ -10,7 +10,10 @@ This Machine learning web application will predict genre of a book. User has to 
 
 [![Demo Video](images/demo.gif)](https://www.youtube.com/embed/WVteofPq9_8)
 
-
+# Technologies Used
+- Flask framework for web development
+- Natural language processing using NLTK library
+- Machine learning algorithm
 ## Authors
 
 - [@hamzahshabbir](https://www.linkedin.com/in/hamzah-shabbir-108765a5/)
